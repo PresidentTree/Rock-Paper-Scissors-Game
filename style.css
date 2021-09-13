@@ -187,15 +187,15 @@ button {
 
 .rules {
   position: absolute;
-  right: 2rem;
-  bottom: 2rem;
+  right: 3rem;
+  bottom: 3rem;
   background-color: inherit;
   border: 0.25rem solid hsl(217, 16%, 45%);
   color: hsl(0, 0%, 100%);
 }
 
 .instructions {
-  background-color: white;
+  background-color: hsl(0, 0%, 100%);
   width: 25vw;
   height: min-content;
   position: absolute;
@@ -221,7 +221,7 @@ h2 {
 }
 
 i {
-  color: lightgrey;
+  color: hsl(0, 0%, 83%);
   font-size: 2.5rem;
   cursor: pointer;
 }
