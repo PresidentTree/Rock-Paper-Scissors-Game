@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-Game
-My solution to Frontend Mentor's Rock, Paper, Scissors Game challenge.
+My solution to Frontend Mentor's Rock, Paper, Scissors Game challenge. This does not include the lizard and Spock version.
 
 ![Desktop Calculator](https://raw.githubusercontent.com/PresidentTree/Rock-Paper-Scissors-Game/main/RPS%20Game%201.png)
 ![Mobile Calculator](https://raw.githubusercontent.com/PresidentTree/Rock-Paper-Scissors-Game/main/RPS%20Game%202.png)
